@@ -39,3 +39,9 @@ article {
     width: 270px;
     margin: 10px 0px;
 }
+
+button {
+    background-color: black;
+    color: white;
+    padding: 5px 10px;
+}
